@@ -1,0 +1,53 @@
+
+h1{
+    color:white;
+    background: brown;
+    margin-left: 500px;
+    margin-right: 620px;
+}
+body{
+    background: black;
+}
+p{
+    color: white;
+}
+img{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.titulo{
+    color:white;
+    background: black;
+    margin-left: 500px;
+}
+
+.fototesla{
+    margin-left: 500px;
+}
+
+.columna{
+    color: black;
+    background: blanchedalmond;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+.nav-enlace{
+    background: salmon;
+    color: black;
+    padding: 10px 30px;
+    margin: 25%;
+    text-decoration: none;
+   
+    
+    
+}
+.nav-enlace:hover{
+    background: rosybrown;
+    color:black;
+    text-decoration: none;
+    
+}
+
+
+
